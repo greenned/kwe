@@ -13,6 +13,7 @@
 ## Installation
 
 ```bash
+# python=3.10
 pip install kwe
 ```
 
